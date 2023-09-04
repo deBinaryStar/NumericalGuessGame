@@ -12,7 +12,7 @@ This beginner Python project is a fun
      3. String formating 
      4. Inbuilt -- Name Class 
      5. Error Handling ( Exceptional Handling)
-    
+      6. Reusable Python Code Using Functions 
      Hello you can support me by checking on my social handles 
      https://twitter.com/binaryCodeStar
      
