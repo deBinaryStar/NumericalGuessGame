@@ -72,9 +72,9 @@ def start_game():
                     continue
             else:
                 if guess > rand_num:
-                    print('It\'s lower')
+                    print('It\'s  Greater')
                 elif guess < rand_num:
-                    print('It\'s higher')
+                    print('It\'s Lower')
 
         except ValueError as err:
             print('Oh no!, that is not a valid value. Try again...')
