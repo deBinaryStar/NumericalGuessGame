@@ -10,6 +10,8 @@ This beginner Python project is a fun
      1. Built in python random module
      2. Use of conditional operators like if and loop 
      3. String formating 
+     4. Inbuilt -- Name Class 
+     5. Error Handling ( Exceptional Handling)
     
      Hello you can support me by checking on my social handles 
      https://twitter.com/binaryCodeStar
